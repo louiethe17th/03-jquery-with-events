@@ -8,7 +8,7 @@ This application is a blog we built for a client. It utilizes tab-based navigati
 
 ## Getting Started
 <!-- What are the steps that a user must take in order to build this app on their own machine and get it running? -->
-Start with the HTML, build functionality with JavaScript, and then style with CSS.
+To see view this project, the user would need to clone this repository and open it in their browser.
 
 ## Architecture
 The languages used are HTML, CSS, and JavaScript. We also used the jQuery library.
